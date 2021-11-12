@@ -17,6 +17,9 @@ npm i @sk5s/english-words-list
 npm publish --access public
 ```
 
+[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://www.sk5s.cyou/)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://www.sk5s.cyou/)
+
 ```
      _    ____                        _           _   
  ___| | __ ___| ___   _ __  _ __ ___ (_) ___  ___| |_ 
