@@ -7,6 +7,8 @@
 
 2021/11 forked from [https://github.com/lorenbrichter/Words](https://github.com/lorenbrichter/Words)
 
+![](https://nodei.co/npm/@sk5s/english-words-list.png)
+
 ```
 npm i @sk5s/english-words-list
 ```
@@ -31,12 +33,3 @@ npm publish --access public
 
 🔗 [https://git.io/en-words](https://git.io/en-words)
 
-## English Notes
-
-US, UK and Australian spellings are combined. Generally speaking, if it's allowed in another popular word game like Scrabble, it should be allowed in Letterpress. (http://www.anagrammer.com/ is a great resource to verify).
-
-## Other Useful Lists
-
-- YAWL - http://www.gtoal.com/wordgames/yawl/
-- ENABLE2K - http://everything2.com/title/ENABLE+word+list
-- CSW12 - http://www.scrabbleplayers.org/w/CSW12
