@@ -29,6 +29,7 @@ npm publish --access public
                      |_|           |__/               
 ```
 
+🔗 [https://git.io/en-words](https://git.io/en-words)
 
 ## English Notes
 
