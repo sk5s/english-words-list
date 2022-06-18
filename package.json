@@ -1,8 +1,8 @@
 {
   "name": "@sk5s/english-words-list",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "english words list forked from https://github.com/lorenbrichter/Words",
-  "main": "en.json",
+  "main": "en.data.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
