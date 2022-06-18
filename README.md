@@ -7,7 +7,7 @@
 
 2021/11 forked from [https://github.com/lorenbrichter/Words](https://github.com/lorenbrichter/Words)
 
-[![](https://nodei.co/npm/@sk5s/english-words-list.png)](https://sk5s.cyou/sk5short-one?r=en-words)
+[![](https://nodei.co/npm/@sk5s/english-words-list.png)](https://sk5s.cyou/en-words)
 
 ```
 npm i @sk5s/english-words-list
