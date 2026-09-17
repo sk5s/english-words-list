@@ -7,7 +7,7 @@
 
 2021/11 forked from [https://github.com/lorenbrichter/Words](https://github.com/lorenbrichter/Words)
 
-[![](https://nodei.co/npm/@sk5s/english-words-list.png)](https://sk5s.cyou/en-words)
+[![](https://nodei.co/npm/@sk5s/english-words-list.png)](https://sk5s.cc/en-words)
 
 ```
 npm i @sk5s/english-words-list
@@ -19,7 +19,7 @@ npm i @sk5s/english-words-list
 npm publish --access public
 ```
 
-[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
+[![sk5s site](https://me.sk5s.org/img/sk5s-project-bar.png)](https://sk5s.com/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://sk5s.cyou/)
 
 ```
