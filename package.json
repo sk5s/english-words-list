@@ -1,7 +1,7 @@
 {
   "name": "@sk5s/english-words-list",
-  "version": "1.0.0",
-  "description": "english words list forked from https://github.com/lorenbrichter/Words",
+  "version": "1.0.1",
+  "description": "English words list forked from https://github.com/lorenbrichter/Words",
   "main": "en.data.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/sk5s/english-words-list.git"
   },
   "keywords": [
-    "english",
+    "English",
     "words",
     "list",
     "autocomplete",
