@@ -20,7 +20,7 @@ npm publish --access public
 ```
 
 [![sk5s site](https://me.sk5s.org/img/sk5s-project-bar.png)](https://sk5s.com/)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://sk5s.cyou/)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://sk5s.com/)
 
 ```
      _    ____                        _           _   
